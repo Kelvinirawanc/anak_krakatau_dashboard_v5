@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anak Krakatau 2026 Impact Dashboard</title>
+    <meta name="description" content="Interactive dashboard showing eruption impacts, aviation disruption, population exposure, health response, and regional effects.">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="page-container">
+
+    <header class="dashboard-header">
+        <div class="header-content">
+            <div class="header-text">
+                <div class="eyebrow" data-i18n="eyebrow">DISASTER IMPACT ANALYTICS</div>
+                <div class="title-row">
+                    <div class="title-volcano-icon" aria-hidden="true">
+                        <svg viewBox="0 0 64 64"><path d="M8 54h48L42 25l-9 12-7-8-18 25Z"/><path d="M25 29c5 5 10 4 14-1 4-5 4-10 1-15 9 5 12 13 8 20-3 5-9 8-15 7-4 0-7-2-8-5Z" opacity=".75"/></svg>
+                    </div>
+                    <h1 data-i18n="title">Anak Krakatau 2026</h1>
+                </div>
+                <p class="header-description" data-i18n="headerDescription">Monitoring eruption activity, aviation disruption, population exposure, health response, and regional impacts.</p>
+            </div>
+
+            <div class="header-actions">
+                <div class="header-toolbar">
+                    <div class="language-switch" aria-label="Language switcher">
+                        <button type="button" class="lang-button active" data-lang="en">EN</button>
+                        <button type="button" class="lang-button" data-lang="id">ID</button>
+                    </div>
+                    <button type="button" id="mobileToggle" class="mobile-toggle" aria-pressed="false">
+                        <span class="mobile-toggle-icon" aria-hidden="true">▯</span>
+                        <span id="mobileToggleText" data-i18n="mobileView">Mobile view</span>
+                    </button>
+                </div>
+                <div class="header-status">
+                    <span class="status-label" data-i18n="currentStatusLabel">CURRENT STATUS</span>
+                    <div id="headerStatus" class="status-badge">Loading...</div>
+                    <span class="status-date-label" data-i18n="updatedAsOf">UPDATED DATA AS OF</span>
+                    <span id="statusDate" class="status-date">Loading...</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="kpi-grid">
+            <div class="kpi-card"><div class="kpi-label" data-i18n="currentStatus">Current Status</div><div id="kpiStatus" class="kpi-value status-value">—</div><div id="kpiStatusDate" class="kpi-description">—</div></div>
+            <div class="kpi-card"><div class="kpi-label" data-i18n="populationExposed">Population Exposed</div><div id="kpiPopulation" class="kpi-value">—</div><div class="kpi-description" data-i18n="populationDesc">Estimated population in ash-affected areas</div></div>
+            <div class="kpi-card"><div class="kpi-label" data-i18n="affectedFlights">Affected Flights</div><div id="kpiFlights" class="kpi-value">—</div><div class="kpi-description" data-i18n="flightsDesc">Cumulative reported aviation impact</div></div>
+            <div class="kpi-card"><div class="kpi-label" data-i18n="affectedPassengers">Affected Passengers</div><div id="kpiPassengers" class="kpi-value">—</div><div class="kpi-description" data-i18n="passengersDesc">Cumulative affected passengers</div></div>
+            <div class="kpi-card"><div class="kpi-label" data-i18n="hospitalsStandby">Hospitals on Standby</div><div id="kpiHospitals" class="kpi-value">—</div><div class="kpi-description" data-i18n="hospitalsDesc">Health facilities prepared</div></div>
+            <div class="kpi-card"><div class="kpi-label" data-i18n="puskesmasStandby">Puskesmas on Standby</div><div id="kpiPuskesmas" class="kpi-value">—</div><div class="kpi-description" data-i18n="puskesmasDesc">Primary healthcare facilities</div></div>
+        </section>
+
+        <section class="two-column-grid overview-impact-grid">
+            <div class="panel">
+                <div class="panel-header"><div><h2 data-i18n="eruptionOverview">Eruption Overview</h2><p data-i18n="keyActivity">Key activity information</p></div></div>
+                <div class="overview-content">
+                    <div class="overview-row"><span data-i18n="volcano">Volcano</span><strong>Gunung Anak Krakatau</strong></div>
+                    <div class="overview-row"><span data-i18n="location">Location</span><strong>Sunda Strait, Lampung</strong></div>
+                    <div class="overview-row"><span data-i18n="levelIIIStarted">Level III started</span><strong id="overviewLevelIII">—</strong></div>
+                    <div class="overview-row"><span data-i18n="continuousEruption">Continuous eruption</span><strong id="overviewContinuous">—</strong></div>
+                    <div class="overview-row"><span data-i18n="eruptionDuration">Continuous eruption duration</span><strong id="overviewDuration">—</strong></div>
+                    <div class="overview-row"><span data-i18n="currentLevel">Current level</span><strong id="overviewStatus">—</strong></div>
+                </div>
+            </div>
+
+            <div class="panel">
+                <div class="panel-header"><div><h2 data-i18n="impactSummary">Impact Summary</h2><p data-i18n="mainRecordedImpacts">Main recorded impacts and response areas</p></div></div>
+                <div id="impactSummaryList" class="impact-summary-grid"></div>
+            </div>
+        </section>
+
+        <section class="aviation-split-grid">
+            <div class="panel"><div class="panel-header"><div><h2 data-i18n="aviationDisruption">Aviation Disruption</h2><p data-i18n="flightOperationalCategory">Flights affected by operational category</p></div></div><div class="chart-container"><canvas id="aviationChart"></canvas></div></div>
+            <div class="panel"><div class="panel-header"><div><h2 data-i18n="airportImpact">Airport Impact</h2><p data-i18n="airportOperationalStatus">Current impacted airports by operational status</p></div></div><div class="chart-container"><canvas id="airportImpactChart"></canvas></div><div class="chart-footnote" data-i18n="previousAirportNote">Previously affected airports are retained in the table as historical context, but excluded from the current-impact chart.</div></div>
+        </section>
+
+        <section class="two-column-grid">
+            <div class="panel passenger-panel"><div class="panel-header"><div><h2 data-i18n="passengerImpact">Passenger Impact</h2><p data-i18n="passengerCategory">Passenger disruption by category</p></div></div><div id="passengerHumanChart" class="passenger-human-chart"></div><div class="passenger-scale" data-i18n="passengerScale">1 human icon ≈ 10,000 passengers</div></div>
+            <div class="panel health-panel"><div class="panel-header"><div><h2 data-i18n="healthResponse">Health Response</h2><p data-i18n="preparedFacilities">Prepared healthcare facilities</p></div></div><div class="chart-container chart-small"><canvas id="healthChart"></canvas></div><div id="healthNote" class="health-note"></div></div>
+        </section>
+
+        <section class="panel">
+            <div class="panel-header"><div><h2 data-i18n="impactedRegional">Impacted Area & Regional Effects</h2><p data-i18n="mapSubtitle">Approximate ash coverage in Indonesia plus documented regional aviation and monitoring effects</p></div></div>
+            <div id="map" class="map-container"></div>
+            <div id="regionalSummary" class="regional-summary-grid"></div>
+        </section>
+
+        <section class="panel">
+            <div class="panel-header"><div><h2 data-i18n="eruptionTimeline">Eruption Timeline</h2><p data-i18n="milestones">Key activity and response milestones</p></div></div>
+            <div id="timeline" class="timeline"></div>
+        </section>
+
+        <section class="panel">
+            <div class="panel-header"><div><h2 data-i18n="impactedAirports">Impacted Airports</h2><p data-i18n="airportTableSubtitle">Airports reported as affected, including regional aviation disruption</p></div></div>
+            <div class="table-wrapper"><table><thead><tr><th data-i18n="airport">Airport</th><th data-i18n="code">Code</th><th data-i18n="region">Region</th><th data-i18n="impact">Impact</th></tr></thead><tbody id="airportTable"></tbody></table></div>
+        </section>
+
+        <section class="panel sources-panel">
+            <div class="panel-header"><div><h2 data-i18n="dataSources">Data Sources</h2><p data-i18n="sourcesSubtitle">Official sources and documented regional references used by the dashboard</p></div></div>
+            <div id="sourceList" class="source-list"></div>
+        </section>
+    </main>
+
+    <footer class="dashboard-footer">
+        <div class="footer-title" data-i18n="footerTitle">Anak Krakatau 2026 Impact Dashboard</div>
+        <div class="footer-subtitle" data-i18n="footerSubtitle">Interactive data visualization of eruption impacts, aviation disruption, population exposure, and response.</div>
+        <div class="footer-credit" data-i18n="footerCredit">Data analysis &amp; dashboard by <strong>Kelvin Irawan</strong></div>
+        <div class="footer-tech" data-i18n="footerTech">Built with HTML, CSS, JavaScript, Chart.js and Leaflet</div>
+        <div class="footer-note" data-i18n="footerNote">Data compiled from publicly available sources. Regional effects are distinguished between direct ash impact, aviation disruption, and monitoring status.</div>
+    </footer>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/dashboard.js"></script>
+</body>
+</html>
