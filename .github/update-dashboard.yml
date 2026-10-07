@@ -1,0 +1,71 @@
+name: Update Anak Krakatau Dashboard Data
+
+on:
+  schedule:
+    # 00:00 Asia/Jakarta = 17:00 UTC on the previous calendar day.
+    - cron: "0 17 * * *"
+  workflow_dispatch:
+    inputs:
+      days_back:
+        description: "How many days back to search for official updates"
+        required: false
+        default: "45"
+      max_candidates:
+        description: "Maximum candidate pages per source"
+        required: false
+        default: "36"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: anak-krakatau-data-update
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests beautifulsoup4 lxml
+
+      - name: Run adaptive Anak Krakatau scraper
+        env:
+          DAYS_BACK: ${{ github.event.inputs.days_back || '45' }}
+          MAX_CANDIDATES: ${{ github.event.inputs.max_candidates || '36' }}
+        run: |
+          python scrape_anak_krakatau_2026_adaptive.py \
+            --days-back "$DAYS_BACK" \
+            --max-candidates "$MAX_CANDIDATES"
+
+      - name: Show generated data
+        run: |
+          echo "Generated files:"
+          ls -lh data/
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore(data): update Anak Krakatau dashboard"
+            git push
+          fi
