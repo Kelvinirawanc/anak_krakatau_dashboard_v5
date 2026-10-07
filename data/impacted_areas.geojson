@@ -176,5 +176,6 @@
       }
     }
   ],
-  "generated_at": "2026-10-07T02:56:22+00:00"
+  "generated_at": "2026-10-07T21:42:44+07:00",
+  "data_note": "Static analytical coverage reference; not a live government polygon boundary."
 }
