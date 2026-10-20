@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:33:22+07:00",
+  "generated_at": "2026-10-21T03:28:55+07:00",
   "mode": "adaptive_official_government_discovery",
   "sources": [
     {
@@ -25,7 +25,7 @@
           "title": "GEJALA PENINGKATAN AKTIVITAS GUNUNGAPI ANAK KRAKATAU TANGGAL 27 JUNI 2026",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 269.66,
+          "relevance_score": 268.95,
           "role_score": {
             "status": 14.0,
             "impact": 8.0
@@ -38,7 +38,7 @@
           "title": "KONFIRMASI VIDEO HOAKS G. ANAK KRAKATAU TANGGAL 4 JULI 2026",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 259.66,
+          "relevance_score": 258.95,
           "role_score": {
             "status": 14.0,
             "impact": 8.0
@@ -51,7 +51,7 @@
           "title": "Press Release PERKEMBANGAN AKTIVITAS VULKANIK G. ANAK KRAKATAU",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 259.21,
+          "relevance_score": 258.5,
           "role_score": {
             "status": 14.0,
             "impact": 8.0
@@ -64,7 +64,7 @@
           "title": "Laporan Evaluasi Tingkat Aktivitas Gunungapi Indonesia Bulan November 2023",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 204.86,
+          "relevance_score": 204.15,
           "role_score": {
             "status": 29.0,
             "impact": 8.0
@@ -77,7 +77,7 @@
           "title": "Tingkat Aktivitas Gunungapi Indonesia Menjelang HUT RI ke-78",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 204.41,
+          "relevance_score": 203.7,
           "role_score": {
             "status": 29.0,
             "impact": 8.0
@@ -90,7 +90,7 @@
           "title": "Tingkat Aktivitas Gunung Api",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 199.01,
+          "relevance_score": 198.3,
           "role_score": {
             "status": 29.0,
             "impact": 8.0
@@ -103,7 +103,7 @@
           "title": "PENINGKATAN AKTIVITAS VULKANIK GUNUNGAPI ANAK KRAKATAU TANGGAL 20 JUNI 2026",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 193.26,
+          "relevance_score": 192.55,
           "role_score": {
             "status": 14.0,
             "impact": 8.0
@@ -129,7 +129,7 @@
           "title": "Peningkatan Aktivitas Vulkanik G. Sinabung, Sumatera Utara Pada Tanggal 1 Agustus 2026",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 52.06,
+          "relevance_score": 51.35,
           "role_score": {
             "status": 14.0,
             "impact": 8.0
@@ -142,7 +142,7 @@
           "title": "PENINGKATAN GEMPA VULKANIK DALAM GUNUNGAPI SORIKMARAPI, SUMATERA UTARA TANGGAL 18 JULI 2026",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 52.06,
+          "relevance_score": 51.35,
           "role_score": {
             "status": 14.0,
             "impact": 8.0
@@ -155,7 +155,7 @@
           "title": "Analisis Geologi Kejadian Gempa Bumi di SERAMBAGIANTIMUR-MALUKU",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 52.06,
+          "relevance_score": 51.35,
           "role_score": {
             "status": 14.0,
             "impact": 8.0
@@ -168,7 +168,7 @@
           "title": "LAPORAN EVALUASI ANALISIS GEOLOGI GEMPA BUMI MERUSAK DI KABUPATEN SUKABUMI, PROVINSI JAWA BARAT TANGGAL 15 OKTOBER 2026",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 52.06,
+          "relevance_score": 51.35,
           "role_score": {
             "status": 14.0,
             "impact": 20.0
@@ -181,7 +181,7 @@
           "title": "Analisis Geologi Kejadian Gempa Bumi di Pusat gempa berada di laut 60 km timur laut Labuan Bajo",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 52.06,
+          "relevance_score": 51.35,
           "role_score": {
             "status": 14.0,
             "impact": 8.0
@@ -205,22 +205,9 @@
           "organization": "Badan Geologi",
           "url": "https://www.esdm.go.id/id/media-center/arsip-berita/mk-batalkan-uu-no-20-tahun-2002-tentang-ketenagalistrikan",
           "title": "Kementerian ESDM RI - Media Center - Arsip Berita - MK Batalkan UU No 20 Tahun 2002 tentang Ketenagalistrikan",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 31.96,
-          "role_score": {
-            "status": 0.0,
-            "impact": 0.0
-          }
-        },
-        {
-          "source_key": "geologi",
-          "organization": "Badan Geologi",
-          "url": "https://geologi.esdm.go.id/media-center/pusat-survei-geologi-badan-geologi-kementerian-esdm-berpartisipasi-dalam-hydrogen-day-2026",
-          "title": "Berita | Portal Layanan Satu Pintu Badan Geologi",
-          "date": "2026-10-15",
-          "discovery_method": "linked_page",
-          "relevance_score": 31.06,
+          "relevance_score": 32.0,
           "role_score": {
             "status": 0.0,
             "impact": 0.0
@@ -233,7 +220,20 @@
           "title": "Berita | Portal Layanan Satu Pintu Badan Geologi",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 31.06,
+          "relevance_score": 30.35,
+          "role_score": {
+            "status": 0.0,
+            "impact": 2.0
+          }
+        },
+        {
+          "source_key": "geologi",
+          "organization": "Badan Geologi",
+          "url": "https://geologi.esdm.go.id/media-center/pusat-survei-geologi-badan-geologi-kementerian-esdm-kenalkan-metode-pinn-untuk-koreksi-data-amt-di-pit-hagi-51-bandung-2026",
+          "title": "Berita | Portal Layanan Satu Pintu Badan Geologi",
+          "date": "2026-10-15",
+          "discovery_method": "linked_page",
+          "relevance_score": 30.35,
           "role_score": {
             "status": 0.0,
             "impact": 2.0
@@ -246,7 +246,7 @@
           "title": "Kementerian ESDM RI - Media Center - Arsip Berita - Bahlil Minta Pemda dan PLN Data Desa Belum Berlistrik, Target Tuntas 2029–2030",
           "date": "2026-10-15",
           "discovery_method": "linked_page",
-          "relevance_score": 28.06,
+          "relevance_score": 27.35,
           "role_score": {
             "status": 0.0,
             "impact": 12.0
@@ -302,9 +302,9 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/siaran_pers/risiko-tsunami-non-tektonik-terkait-aktivitas-gunung-anak-krakatau/",
           "title": "Risiko Tsunami Non Tektonik Terkait Aktivitas Gunung Anak Krakatau",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "linked_page",
-          "relevance_score": 320.21,
+          "relevance_score": 320.25,
           "role_score": {
             "aviation": 6.0,
             "impact": 30.0
@@ -320,7 +320,7 @@
           "relevance_score": 301.8,
           "role_score": {
             "aviation": 34.0,
-            "impact": 26.0
+            "impact": 22.0
           }
         },
         {
@@ -333,7 +333,7 @@
           "relevance_score": 293.8,
           "role_score": {
             "aviation": 49.0,
-            "impact": 30.0
+            "impact": 26.0
           }
         },
         {
@@ -346,7 +346,7 @@
           "relevance_score": 155.0,
           "role_score": {
             "aviation": 47.0,
-            "impact": 22.0
+            "impact": 18.0
           }
         },
         {
@@ -354,9 +354,9 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/berita/tingkatkan-akuntabilitas-dan-transparansi-pengelolaan-keuangan-bmkg-bbmkg-wilayah-ii-melaksanakan-rekonsiliasi-laporan-keuangan-semester-i-tahun-anggaran-2024/",
           "title": "Tingkatkan Akuntabilitas dan Transparansi Pengelolaan Keuangan: BBMKG Wilayah II Melaksanakan Rekonsiliasi Laporan Keuangan Semester I TA 2024",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 62.56,
+          "relevance_score": 62.6,
           "role_score": {
             "aviation": 6.0,
             "impact": 28.0
@@ -367,9 +367,9 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/berita/iowave-2023-sistem-respon-peringatan-dini-tsunami-di-sukabumi-perlu-ditingkatkan/",
           "title": "IOWAVE 2023: Sistem Respon Peringatan Dini Tsunami di Sukabumi Perlu Ditingkatkan",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 60.76,
+          "relevance_score": 60.8,
           "role_score": {
             "aviation": 6.0,
             "impact": 36.0
@@ -380,9 +380,9 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/artikel_ilmiah/korelasi-kelembaban-dengan-tingkat-curah-hujan/",
           "title": "Analisis Kondisi Cuaca Terkait Kejadian Pohon Tumbang di Kab. Serang Tanggal 01 April 2023",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 60.31,
+          "relevance_score": 60.35,
           "role_score": {
             "aviation": 6.0,
             "impact": 30.0
@@ -393,9 +393,9 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/berita/tingkatkan-ilmu-cuaca-iklim-gempabumi-dan-tsunami-bbmkg-wilayah-ii-menerima-kunjungan-siswa-siswi-sd-islam-abais-pamulang/",
           "title": "Pengenalan Informasi Cuaca, Iklim, Gempabumi dan Tsunami: BBMKG Wilayah II Menerima Kunjungan Siswa-Siswi SD Islam ABAIS Pamulang",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 60.31,
+          "relevance_score": 60.35,
           "role_score": {
             "aviation": 8.0,
             "impact": 28.0
@@ -406,9 +406,9 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/berita/tingkatkan-literasi-cuaca-iklim-gempabumi-dan-tsunami-bbmkg-wilayah-ii-menerima-kunjungan-siswa-siswi-sd-islam-terpadu-al-ummah/",
           "title": "Tingkatkan Literasi Cuaca, Iklim, Gempabumi dan Tsunami: BBMKG Wilayah II Menerima Kunjungan Siswa-Siswi SD Islam Terpadu Al-Ummah",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 60.31,
+          "relevance_score": 60.35,
           "role_score": {
             "aviation": 8.0,
             "impact": 34.0
@@ -419,9 +419,9 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/berita/tingkatkan-kesiapsiagaan-bencana-bbmkg-wilayah-ii-selenggarakan-seminar-informasi-cuaca-iklim-gempabumi-dan-tsunami-ramah-disabilitas/",
           "title": "Tingkatkan Kesiapsiagaan Bencana: BBMKG Wilayah II Selenggarakan Seminar Informasi Cuaca, Iklim, Gempabumi, dan Tsunami Ramah Disabilitas",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 60.31,
+          "relevance_score": 60.35,
           "role_score": {
             "aviation": 6.0,
             "impact": 30.0
@@ -432,9 +432,9 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/berita/tingkatkan-literasi-cuaca-iklim-dan-gempabumi-bbmkg-wilayah-ii-menerima-kunjungan-siswa-siswi-smp-islam-terpadu-asy-syukriyyah-kota-tangerang/",
           "title": "Tingkatkan Literasi Cuaca, Iklim, dan Gempabumi: BBMKG Wilayah II Menerima Kunjungan Siswa-Siswi SMP Islam Terpadu Asy Syukriyyah Kota Tangerang",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 60.31,
+          "relevance_score": 60.35,
           "role_score": {
             "aviation": 8.0,
             "impact": 34.0
@@ -445,9 +445,9 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/berita/tingkatkan-kualitas-pendidikan-dan-kompetensi-balai-besar-meteorologi-klimatologi-dan-geofisika-wilayah-ii-jalin-kerja-sama-dengan-universitas-pamulang/",
           "title": "Tingkatkan Kualitas Pendidikan dan Kompetensi: Balai Besar Meteorologi Klimatologi dan Geofisika Wilayah II Jalin Kerja Sama dengan Universitas Pamulang",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 60.31,
+          "relevance_score": 60.35,
           "role_score": {
             "aviation": 6.0,
             "impact": 28.0
@@ -456,24 +456,11 @@
         {
           "source_key": "bmkg",
           "organization": "BMKG",
-          "url": "https://www.bmkg.go.id/siaran-pers/bmkg-ungkap-dentuman-di-bandung-raya-bukan-berasal-dari-aktivitas-gempa-bumi",
-          "title": "BMKG Ungkap Dentuman di Bandung Raya Bukan Berasal dari Aktivitas Gempa Bumi",
-          "date": "2026-09-05",
-          "discovery_method": "linked_page",
-          "relevance_score": 46.8,
-          "role_score": {
-            "aviation": 6.0,
-            "impact": 22.0
-          }
-        },
-        {
-          "source_key": "bmkg",
-          "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/dipa/dipa-bmkkg-2018/",
           "title": "DIPA BMKKG 2018",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 31.96,
+          "relevance_score": 32.0,
           "role_score": {
             "aviation": 6.0,
             "impact": 24.0
@@ -484,9 +471,9 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/dipa/dipa-bmkkg-2017/",
           "title": "DIPA BMKKG 2017",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 31.96,
+          "relevance_score": 32.0,
           "role_score": {
             "aviation": 6.0,
             "impact": 24.0
@@ -497,9 +484,9 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/dipa/dipa-bmkkg-2016/",
           "title": "DIPA BMKKG 2016",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 31.96,
+          "relevance_score": 32.0,
           "role_score": {
             "aviation": 6.0,
             "impact": 24.0
@@ -510,9 +497,9 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/dipa/dipa-bmkkg-2015/",
           "title": "DIPA BMKKG 2015",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 31.96,
+          "relevance_score": 32.0,
           "role_score": {
             "aviation": 6.0,
             "impact": 24.0
@@ -523,9 +510,22 @@
           "organization": "BMKG",
           "url": "https://bbmkg2.bmkg.go.id/dipa/dipa-bmkkg-2014/",
           "title": "DIPA BMKKG 2014",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "discovery_method": "sitemap",
-          "relevance_score": 31.96,
+          "relevance_score": 32.0,
+          "role_score": {
+            "aviation": 6.0,
+            "impact": 24.0
+          }
+        },
+        {
+          "source_key": "bmkg",
+          "organization": "BMKG",
+          "url": "https://bbmkg2.bmkg.go.id/dipa/dipa-bmkkg-2013/",
+          "title": "DIPA BMKKG 2013",
+          "date": "2026-10-20",
+          "discovery_method": "sitemap",
+          "relevance_score": 32.0,
           "role_score": {
             "aviation": 6.0,
             "impact": 24.0
@@ -699,7 +699,7 @@
           "title": "Galeri Foto",
           "date": "2026-10-01",
           "discovery_method": "linked_page",
-          "relevance_score": 17.11,
+          "relevance_score": 16.39,
           "role_score": {
             "aviation": 4.0,
             "impact": 2.0
@@ -712,7 +712,7 @@
           "title": "Galeri Foto",
           "date": "2026-10-01",
           "discovery_method": "linked_page",
-          "relevance_score": 17.11,
+          "relevance_score": 16.39,
           "role_score": {
             "aviation": 4.0,
             "impact": 2.0
@@ -801,7 +801,7 @@
           "title": "Generasi Sehat, Masa Depan Hebat",
           "date": "2026-09-09",
           "discovery_method": "linked_page",
-          "relevance_score": 183.61,
+          "relevance_score": 183.0,
           "role_score": {
             "health": 26.0,
             "impact": 26.0
@@ -814,7 +814,7 @@
           "title": "Generasi Sehat, Masa Depan Hebat",
           "date": "2026-09-09",
           "discovery_method": "linked_page",
-          "relevance_score": 183.61,
+          "relevance_score": 183.0,
           "role_score": {
             "health": 26.0,
             "impact": 26.0
@@ -827,7 +827,7 @@
           "title": "Generasi Sehat, Masa Depan Hebat",
           "date": "2026-09-09",
           "discovery_method": "linked_page",
-          "relevance_score": 183.61,
+          "relevance_score": 183.0,
           "role_score": {
             "health": 26.0,
             "impact": 26.0
@@ -840,7 +840,7 @@
           "title": "Generasi Sehat, Masa Depan Hebat",
           "date": "2026-09-09",
           "discovery_method": "linked_page",
-          "relevance_score": 183.61,
+          "relevance_score": 183.0,
           "role_score": {
             "health": 26.0,
             "impact": 26.0
@@ -1006,9 +1006,33 @@
           "organization": "NADMA / MetMalaysia",
           "url": "https://www.met.gov.my/data/ICN20032.html",
           "title": "Media BAH",
-          "date": "2026-10-20",
+          "date": "2026-10-21",
           "discovery_method": "linked_page",
-          "relevance_score": 31.81,
+          "relevance_score": 31.84,
+          "role_score": {
+            "impact": 0.0
+          }
+        },
+        {
+          "source_key": "nadma",
+          "organization": "NADMA / MetMalaysia",
+          "url": "https://www.met.gov.my/data/IWR31004.html",
+          "title": "Gempa Bumi/Tsunami",
+          "date": "2026-10-21",
+          "discovery_method": "linked_page",
+          "relevance_score": 31.39,
+          "role_score": {
+            "impact": 0.0
+          }
+        },
+        {
+          "source_key": "nadma",
+          "organization": "NADMA / MetMalaysia",
+          "url": "https://www.met.gov.my/data/IWR30002.html",
+          "title": "Thunderstorms Warning",
+          "date": "2026-10-21",
+          "discovery_method": "linked_page",
+          "relevance_score": 31.39,
           "role_score": {
             "impact": 0.0
           }
@@ -1020,7 +1044,7 @@
           "title": "Portal NADMA - 𝐏𝐄𝐌𝐄𝐑𝐊𝐀𝐒𝐀𝐀𝐍 𝐊𝐄𝐒𝐄𝐃𝐀𝐑𝐀𝐍 𝐊𝐄𝐒𝐈𝐇𝐀𝐓𝐀𝐍 𝐃𝐀𝐍 𝐊𝐄𝐒𝐈𝐀𝐆𝐀𝐀𝐍 𝐁𝐄𝐍𝐂𝐀𝐍𝐀 𝐃𝐀𝐋𝐀𝐌 𝐊𝐀𝐋𝐀𝐍𝐆𝐀𝐍 𝐊𝐎𝐌𝐔𝐍𝐈𝐓𝐈",
           "date": "2026-10-19",
           "discovery_method": "linked_page",
-          "relevance_score": 31.36,
+          "relevance_score": 30.65,
           "role_score": {
             "impact": 0.0
           }
@@ -1032,7 +1056,7 @@
           "title": "Portal NADMA - 𝐏𝐄𝐌𝐄𝐑𝐊𝐀𝐒𝐀𝐀𝐍 𝐊𝐄𝐒𝐄𝐃𝐀𝐑𝐀𝐍 𝐊𝐄𝐒𝐈𝐇𝐀𝐓𝐀𝐍 𝐃𝐀𝐍 𝐊𝐄𝐒𝐈𝐀𝐆𝐀𝐀𝐍 𝐁𝐄𝐍𝐂𝐀𝐍𝐀 𝐃𝐀𝐋𝐀𝐌 𝐊𝐀𝐋𝐀𝐍𝐆𝐀𝐍 𝐊𝐎𝐌𝐔𝐍𝐈𝐓𝐈",
           "date": "2026-10-19",
           "discovery_method": "linked_page",
-          "relevance_score": 31.36,
+          "relevance_score": 30.65,
           "role_score": {
             "impact": 0.0
           }
@@ -1044,7 +1068,7 @@
           "title": "Portal NADMA - 𝐊𝐔𝐍𝐉𝐔𝐍𝐆𝐀𝐍 𝐇𝐎𝐑𝐌𝐀𝐓 𝐄𝐍𝐄𝐑𝐆𝐘 𝐒𝐀𝐑𝐀𝐖𝐀𝐊 𝐊𝐄 𝐀𝐓𝐀𝐒 𝐍𝐀𝐃𝐌𝐀",
           "date": "2026-10-19",
           "discovery_method": "linked_page",
-          "relevance_score": 31.36,
+          "relevance_score": 30.65,
           "role_score": {
             "impact": 0.0
           }
@@ -1056,7 +1080,7 @@
           "title": "Portal NADMA - 𝐊𝐔𝐍𝐉𝐔𝐍𝐆𝐀𝐍 𝐇𝐎𝐑𝐌𝐀𝐓 𝐄𝐍𝐄𝐑𝐆𝐘 𝐒𝐀𝐑𝐀𝐖𝐀𝐊 𝐊𝐄 𝐀𝐓𝐀𝐒 𝐍𝐀𝐃𝐌𝐀",
           "date": "2026-10-19",
           "discovery_method": "linked_page",
-          "relevance_score": 31.36,
+          "relevance_score": 30.65,
           "role_score": {
             "impact": 0.0
           }
@@ -1068,7 +1092,7 @@
           "title": "Portal NADMA - 𝐏𝐄𝐌𝐀𝐍𝐓𝐀𝐏𝐀𝐍 𝐊𝐎𝐌𝐏𝐄𝐓𝐄𝐍𝐒𝐈 𝐏𝐄𝐆𝐀𝐖𝐀𝐈 𝐏𝐄𝐌𝐀𝐍𝐆𝐊𝐈𝐍 𝐏𝐄𝐍𝐆𝐔𝐑𝐔𝐒𝐀𝐍 𝐁𝐄𝐍𝐂𝐀𝐍𝐀 𝐁𝐄𝐑𝐊𝐄𝐒𝐀𝐍",
           "date": "2026-10-19",
           "discovery_method": "linked_page",
-          "relevance_score": 31.36,
+          "relevance_score": 30.64,
           "role_score": {
             "impact": 0.0
           }
@@ -1080,7 +1104,7 @@
           "title": "Portal NADMA - 𝐏𝐄𝐌𝐀𝐍𝐓𝐀𝐏𝐀𝐍 𝐊𝐎𝐌𝐏𝐄𝐓𝐄𝐍𝐒𝐈 𝐏𝐄𝐆𝐀𝐖𝐀𝐈 𝐏𝐄𝐌𝐀𝐍𝐆𝐊𝐈𝐍 𝐏𝐄𝐍𝐆𝐔𝐑𝐔𝐒𝐀𝐍 𝐁𝐄𝐍𝐂𝐀𝐍𝐀 𝐁𝐄𝐑𝐊𝐄𝐒𝐀𝐍",
           "date": "2026-10-19",
           "discovery_method": "linked_page",
-          "relevance_score": 31.36,
+          "relevance_score": 30.64,
           "role_score": {
             "impact": 0.0
           }
@@ -1092,21 +1116,9 @@
           "title": "Tiada Nasihat",
           "date": "2026-10-20",
           "discovery_method": "linked_page",
-          "relevance_score": 31.36,
+          "relevance_score": 30.64,
           "role_score": {
             "impact": 0.0
-          }
-        },
-        {
-          "source_key": "nadma",
-          "organization": "NADMA / MetMalaysia",
-          "url": "https://www.met.gov.my/data/IWR30002.html",
-          "title": "Thunderstorms Warning",
-          "date": "2026-10-20",
-          "discovery_method": "linked_page",
-          "relevance_score": 31.36,
-          "role_score": {
-            "impact": 4.0
           }
         },
         {
@@ -1116,19 +1128,7 @@
           "title": "Portal NADMA - Gallery",
           "date": "2026-10-19",
           "discovery_method": "linked_page",
-          "relevance_score": 30.92,
-          "role_score": {
-            "impact": 0.0
-          }
-        },
-        {
-          "source_key": "nadma",
-          "organization": "NADMA / MetMalaysia",
-          "url": "https://www.met.gov.my/data/IWR31004.html",
-          "title": "Gempa Bumi/Tsunami",
-          "date": "2026-10-18",
-          "discovery_method": "linked_page",
-          "relevance_score": 29.86,
+          "relevance_score": 30.2,
           "role_score": {
             "impact": 0.0
           }
@@ -1140,7 +1140,7 @@
           "title": "Portal NADMA - 𝐍𝐀𝐃𝐌𝐀 𝐒𝐄𝐋𝐀𝐑𝐀𝐒 𝐎𝐏𝐄𝐑𝐀𝐒𝐈 𝐏𝐄𝐌𝐁𝐄𝐍𝐈𝐇𝐀𝐍 𝐀𝐖𝐀𝐍 𝐁𝐀𝐆𝐈 𝐌𝐄𝐍𝐈𝐍𝐆𝐊𝐀𝐓𝐊𝐀𝐍 𝐏𝐎𝐓𝐄𝐍𝐒𝐈 𝐓𝐀𝐁𝐔𝐑𝐀𝐍 𝐇𝐔𝐉𝐀𝐍 𝐃𝐈 𝐍𝐄𝐆𝐄𝐑𝐈 𝐏𝐄𝐑𝐀𝐊 | 𝟏𝟒 𝐎𝐊𝐓𝐎𝐁𝐄𝐑 𝟐𝟎𝟐𝟔",
           "date": "2026-10-16",
           "discovery_method": "linked_page",
-          "relevance_score": 29.09,
+          "relevance_score": 28.37,
           "role_score": {
             "impact": 0.0
           }
@@ -1152,7 +1152,7 @@
           "title": "Portal NADMA - 𝐒𝐈𝐀𝐑𝐀𝐍 𝐌𝐄𝐃𝐈𝐀 𝐍𝐀𝐃𝐌𝐀 𝐏𝐄𝐑𝐊𝐔𝐊𝐔𝐇 𝐏𝐄𝐍𝐘𝐄𝐋𝐀𝐑𝐀𝐒𝐀𝐍 𝐓𝐈𝐍𝐃𝐀𝐊𝐀𝐍 𝐉𝐄𝐑𝐄𝐁𝐔 𝐃𝐈 𝐍𝐄𝐆𝐄𝐑𝐈, 𝐊𝐄𝐒𝐄𝐋𝐀𝐌𝐀𝐓𝐀𝐍 𝐌𝐔𝐑𝐈𝐃 𝐉𝐀𝐃𝐈 𝐊𝐄𝐔𝐓𝐀𝐌𝐀𝐀𝐍",
           "date": "2026-10-14",
           "discovery_method": "linked_page",
-          "relevance_score": 27.68,
+          "relevance_score": 26.96,
           "role_score": {
             "impact": 0.0
           }
@@ -1164,7 +1164,7 @@
           "title": "Continuous Rain Warning",
           "date": "2026-10-14",
           "discovery_method": "linked_page",
-          "relevance_score": 26.86,
+          "relevance_score": 26.14,
           "role_score": {
             "impact": 0.0
           }
@@ -1176,7 +1176,7 @@
           "title": "Portal NADMA - News",
           "date": "2026-10-12",
           "discovery_method": "configured_listing",
-          "relevance_score": 25.76,
+          "relevance_score": 25.04,
           "role_score": {
             "impact": 4.0
           }
@@ -1188,7 +1188,7 @@
           "title": "Portal NADMA - Berita",
           "date": "2026-10-12",
           "discovery_method": "linked_page",
-          "relevance_score": 25.76,
+          "relevance_score": 25.04,
           "role_score": {
             "impact": 4.0
           }
@@ -1200,7 +1200,7 @@
           "title": "Portal NADMA - 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐊𝐄𝐘𝐍𝐎𝐓𝐄 𝐀𝐃𝐃𝐑𝐄𝐒𝐒 𝐂𝐋𝐎𝐒𝐈𝐍𝐆 𝐑𝐄𝐌𝐀𝐑𝐊𝐒 𝐒𝐌𝐀𝐑𝐓 𝐓𝐄𝐀𝐌 𝟐𝟎𝟐𝟔",
           "date": "2026-09-25",
           "discovery_method": "linked_page",
-          "relevance_score": 13.49,
+          "relevance_score": 12.78,
           "role_score": {
             "impact": 0.0
           }
