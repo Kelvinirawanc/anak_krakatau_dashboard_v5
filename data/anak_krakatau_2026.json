@@ -1,8 +1,8 @@
 {
     "metadata": {
-        "last_updated": "2026-11-10T07:45:45+07:00",
-        "last_updated_display": "10 November 2026, 07:45 WIB",
-        "data_as_of": "10 November 2026",
+        "last_updated": "2026-11-11T05:21:06+07:00",
+        "last_updated_display": "11 November 2026, 05:21 WIB",
+        "data_as_of": "11 November 2026",
         "scraper": "scrape_anak_krakatau_2026.py",
         "author": "Kelvin Irawan",
         "reference_mode": "adaptive_official_government_discovery",
@@ -73,7 +73,7 @@
             "carried_forward_field_count": 8,
             "missing_field_count": 0,
             "discovery_source_count": 6,
-            "discovery_candidate_count": 85
+            "discovery_candidate_count": 86
         }
     },
     "event": {
@@ -241,6 +241,20 @@
     "eruption": {
         "timeline": [
             {
+                "date": "10 November 2026",
+                "title": "Kementerian ESDM RI - Site",
+                "description": "Kementerian ESDM RI - Site ID | EN Call 136 Cari TERKINI Saluran Resmi Komunikasi Online KESDM adalah Website: esdm.go.id atau ... Menteri ESDM Dijadwalkan Meresmikan Kantor Sekretariat Just Energy Tra... Kementerian ESDM Gelar Human Capital Summit di JCC, Selasa (21/3) Call Center ESDM 136 untuk Layanan Permohonan dan Pengaduan Informasi JDIH Inline Integra",
+                "source_url": "https://www.esdm.go.id/",
+                "source": "Badan Geologi"
+            },
+            {
+                "date": "10 November 2026",
+                "title": "Kementerian ESDM RI - Media Center - Arsip Berita - MK Batalkan UU No 20 Tahun 2002 tentang Ketenagalistrikan",
+                "description": "Kementerian ESDM RI - Media Center - Arsip Berita - MK Batalkan UU No 20 Tahun 2002 tentang Ketenagalistrikan ID | EN Call 136 Cari TERKINI Saluran Resmi Komunikasi Online KESDM adalah Website: esdm.go.id atau ... Menteri ESDM Dijadwalkan Meresmikan Kantor Sekretariat Just Energy Tra... Kementerian ESDM Gelar Human Capital Summit di JCC, Selasa (21/3) Call C",
+                "source_url": "https://www.esdm.go.id/id/media-center/arsip-berita/mk-batalkan-uu-no-20-tahun-2002-tentang-ketenagalistrikan",
+                "source": "Badan Geologi"
+            },
+            {
                 "date": "09 November 2026",
                 "title": "Berita | Portal Layanan Satu Pintu Badan Geologi",
                 "description": "Berita | Portal Layanan Satu Pintu Badan Geologi Hak Cipta © 2026 Badan Geologi, Kementerian Energi dan Sumber Daya Mineral Badan Geologi [ Badan Geologi ] Berita Badan Geologi Beranda PSDMBP Arsip Berita Berita GeoRIMA at IAGI-GEOSEA 2026 Senin, 9 November 2026 Humas - Pusat Sumber Daya Mineral, Batubara dan Panas Bumi On the second day of the 55th IAGI Ann",
@@ -256,37 +270,9 @@
             },
             {
                 "date": "06 November 2026",
-                "title": "Kementerian ESDM RI - Site",
-                "description": "Kementerian ESDM RI - Site ID | EN Call 136 Cari TERKINI Saluran Resmi Komunikasi Online KESDM adalah Website: esdm.go.id atau ... Menteri ESDM Dijadwalkan Meresmikan Kantor Sekretariat Just Energy Tra... Kementerian ESDM Gelar Human Capital Summit di JCC, Selasa (21/3) Call Center ESDM 136 untuk Layanan Permohonan dan Pengaduan Informasi JDIH Inline Integra",
-                "source_url": "https://www.esdm.go.id/",
-                "source": "Badan Geologi"
-            },
-            {
-                "date": "06 November 2026",
-                "title": "Kementerian ESDM RI - Media Center - Arsip Berita - MK Batalkan UU No 20 Tahun 2002 tentang Ketenagalistrikan",
-                "description": "Kementerian ESDM RI - Media Center - Arsip Berita - MK Batalkan UU No 20 Tahun 2002 tentang Ketenagalistrikan ID | EN Call 136 Cari TERKINI Saluran Resmi Komunikasi Online KESDM adalah Website: esdm.go.id atau ... Menteri ESDM Dijadwalkan Meresmikan Kantor Sekretariat Just Energy Tra... Kementerian ESDM Gelar Human Capital Summit di JCC, Selasa (21/3) Call C",
-                "source_url": "https://www.esdm.go.id/id/media-center/arsip-berita/mk-batalkan-uu-no-20-tahun-2002-tentang-ketenagalistrikan",
-                "source": "Badan Geologi"
-            },
-            {
-                "date": "06 November 2026",
                 "title": "Kementerian ESDM RI - Media Center - Arsip Berita - Kementerian ESDM dan SKK Migas Raih CNN Indonesia Awards 2026",
                 "description": "Kementerian ESDM RI - Media Center - Arsip Berita - Kementerian ESDM dan SKK Migas Raih CNN Indonesia Awards 2026 ID | EN Call 136 Cari TERKINI Saluran Resmi Komunikasi Online KESDM adalah Website: esdm.go.id atau ... Menteri ESDM Dijadwalkan Meresmikan Kantor Sekretariat Just Energy Tra... Kementerian ESDM Gelar Human Capital Summit di JCC, Selasa (21/3) Ca",
                 "source_url": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-dan-skk-migas-raih-cnn-indonesia-awards-2026",
-                "source": "Badan Geologi"
-            },
-            {
-                "date": "05 November 2026",
-                "title": "Kementerian ESDM RI - Media Center - Arsip Berita - Kementerian ESDM Raih Peringkat Kedua Anugerah Reksa Bandha 2026",
-                "description": "Kementerian ESDM RI - Media Center - Arsip Berita - Kementerian ESDM Raih Peringkat Kedua Anugerah Reksa Bandha 2026 ID | EN Call 136 Cari TERKINI Saluran Resmi Komunikasi Online KESDM adalah Website: esdm.go.id atau ... Menteri ESDM Dijadwalkan Meresmikan Kantor Sekretariat Just Energy Tra... Kementerian ESDM Gelar Human Capital Summit di JCC, Selasa (21/3)",
-                "source_url": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-raih-peringkat-kedua-anugerah-reksa-bandha-2026",
-                "source": "Badan Geologi"
-            },
-            {
-                "date": "05 November 2026",
-                "title": "Kementerian ESDM RI - Media Center - Arsip Berita - Tutup Minerba Convex 2026, Ditjen Minerba Beri 42 Apresiasi untuk Badan Usaha dan Tim ESDM Siaga Bencana",
-                "description": "Kementerian ESDM RI - Media Center - Arsip Berita - Tutup Minerba Convex 2026, Ditjen Minerba Beri 42 Apresiasi untuk Badan Usaha dan Tim ESDM Siaga Bencana ID | EN Call 136 Cari TERKINI Saluran Resmi Komunikasi Online KESDM adalah Website: esdm.go.id atau ... Menteri ESDM Dijadwalkan Meresmikan Kantor Sekretariat Just Energy Tra... Kementerian ESDM Gelar Hu",
-                "source_url": "https://www.esdm.go.id/id/media-center/arsip-berita/tutup-minerba-convex-2026-ditjen-minerba-beri-42-apresiasi-untuk-badan-usaha-dan-tim-esdm-siaga-bencana",
                 "source": "Badan Geologi"
             },
             {
@@ -385,7 +371,7 @@
             "organization": "BMKG",
             "reference_type": "official_government_dynamic_discovery",
             "discovery_method": "linked_page",
-            "relevance_score": 320.86
+            "relevance_score": 320.19
         },
         {
             "role": "discovery",
@@ -422,7 +408,7 @@
         }
     ],
     "discovery": {
-        "generated_at": "2026-11-10T07:45:45+07:00",
+        "generated_at": "2026-11-11T05:21:06+07:00",
         "source_logs": [
             {
                 "source_key": "geologi",
@@ -455,11 +441,11 @@
                         "organization": "Badan Geologi",
                         "url": "https://www.esdm.go.id/",
                         "title": "Kementerian ESDM RI - Site",
-                        "date": "2026-11-06",
+                        "date": "2026-11-10",
                         "discovery_method": "domain_home",
-                        "relevance_score": 52.26,
+                        "relevance_score": 54.59,
                         "role_score": {
-                            "status": 14.0,
+                            "status": 12.0,
                             "impact": 16.0
                         }
                     },
@@ -468,11 +454,11 @@
                         "organization": "Badan Geologi",
                         "url": "https://www.esdm.go.id/id",
                         "title": "Kementerian ESDM RI - Site",
-                        "date": "2026-11-06",
+                        "date": "2026-11-10",
                         "discovery_method": "linked_page",
-                        "relevance_score": 52.26,
+                        "relevance_score": 54.59,
                         "role_score": {
-                            "status": 14.0,
+                            "status": 12.0,
                             "impact": 16.0
                         }
                     },
@@ -481,11 +467,11 @@
                         "organization": "Badan Geologi",
                         "url": "https://www.esdm.go.id/id/",
                         "title": "Kementerian ESDM RI - Site",
-                        "date": "2026-11-06",
+                        "date": "2026-11-10",
                         "discovery_method": "linked_page",
-                        "relevance_score": 52.26,
+                        "relevance_score": 54.59,
                         "role_score": {
-                            "status": 14.0,
+                            "status": 12.0,
                             "impact": 16.0
                         }
                     },
@@ -518,11 +504,24 @@
                     {
                         "source_key": "geologi",
                         "organization": "Badan Geologi",
+                        "url": "https://magma.esdm.go.id/v1",
+                        "title": "MAGMA Indonesia - Bridging The Will of Nature to Society",
+                        "date": null,
+                        "discovery_method": "linked_page",
+                        "relevance_score": 42.0,
+                        "role_score": {
+                            "status": 25.0,
+                            "impact": 0.0
+                        }
+                    },
+                    {
+                        "source_key": "geologi",
+                        "organization": "Badan Geologi",
                         "url": "https://geologi.esdm.go.id/media-center/hadiri-minerba-convex-2026-badan-geologi-sajikan-informasi-kegeologian-untuk-pertambangan-mitigasi-bencana-dan-keberlanjutan",
                         "title": "Berita | Portal Layanan Satu Pintu Badan Geologi",
                         "date": "2026-11-03",
                         "discovery_method": "linked_page",
-                        "relevance_score": 41.46,
+                        "relevance_score": 40.79,
                         "role_score": {
                             "status": 0.0,
                             "impact": 10.0
@@ -535,10 +534,36 @@
                         "title": "Berita | Portal Layanan Satu Pintu Badan Geologi",
                         "date": "2026-11-09",
                         "discovery_method": "linked_page",
-                        "relevance_score": 33.96,
+                        "relevance_score": 33.29,
                         "role_score": {
                             "status": 0.0,
                             "impact": 18.0
+                        }
+                    },
+                    {
+                        "source_key": "geologi",
+                        "organization": "Badan Geologi",
+                        "url": "https://www.esdm.go.id/id/media-center/arsip-berita/mk-batalkan-uu-no-20-tahun-2002-tentang-ketenagalistrikan",
+                        "title": "Kementerian ESDM RI - Media Center - Arsip Berita - MK Batalkan UU No 20 Tahun 2002 tentang Ketenagalistrikan",
+                        "date": "2026-11-10",
+                        "discovery_method": "sitemap",
+                        "relevance_score": 31.94,
+                        "role_score": {
+                            "status": 0.0,
+                            "impact": 0.0
+                        }
+                    },
+                    {
+                        "source_key": "geologi",
+                        "organization": "Badan Geologi",
+                        "url": "https://www.esdm.go.id/en",
+                        "title": "Kementerian ESDM RI - Site",
+                        "date": "2026-11-10",
+                        "discovery_method": "linked_page",
+                        "relevance_score": 30.59,
+                        "role_score": {
+                            "status": 4.0,
+                            "impact": 8.0
                         }
                     },
                     {
@@ -548,7 +573,7 @@
                         "title": "Berita | Portal Layanan Satu Pintu Badan Geologi",
                         "date": "2026-11-05",
                         "discovery_method": "linked_page",
-                        "relevance_score": 30.96,
+                        "relevance_score": 30.29,
                         "role_score": {
                             "status": 4.0,
                             "impact": 2.0
@@ -561,7 +586,7 @@
                         "title": "Berita | Portal Layanan Satu Pintu Badan Geologi",
                         "date": "2026-11-05",
                         "discovery_method": "linked_page",
-                        "relevance_score": 30.96,
+                        "relevance_score": 30.29,
                         "role_score": {
                             "status": 2.0,
                             "impact": 2.0
@@ -574,7 +599,7 @@
                         "title": "Berita | Portal Layanan Satu Pintu Badan Geologi",
                         "date": "2026-11-05",
                         "discovery_method": "linked_page",
-                        "relevance_score": 30.96,
+                        "relevance_score": 30.29,
                         "role_score": {
                             "status": 0.0,
                             "impact": 10.0
@@ -587,7 +612,7 @@
                         "title": "georima at iagi-geosea 2026",
                         "date": "2026-11-09",
                         "discovery_method": "linked_page",
-                        "relevance_score": 30.51,
+                        "relevance_score": 29.84,
                         "role_score": {
                             "status": 25.0,
                             "impact": 14.0
@@ -596,14 +621,14 @@
                     {
                         "source_key": "geologi",
                         "organization": "Badan Geologi",
-                        "url": "https://www.esdm.go.id/id/media-center/arsip-berita/mk-batalkan-uu-no-20-tahun-2002-tentang-ketenagalistrikan",
-                        "title": "Kementerian ESDM RI - Media Center - Arsip Berita - MK Batalkan UU No 20 Tahun 2002 tentang Ketenagalistrikan",
-                        "date": "2026-11-06",
-                        "discovery_method": "sitemap",
-                        "relevance_score": 29.61,
+                        "url": "https://geologi.esdm.go.id/",
+                        "title": "georima at iagi-geosea 2026",
+                        "date": "2026-11-09",
+                        "discovery_method": "linked_page",
+                        "relevance_score": 29.84,
                         "role_score": {
-                            "status": 0.0,
-                            "impact": 0.0
+                            "status": 25.0,
+                            "impact": 14.0
                         }
                     },
                     {
@@ -613,49 +638,10 @@
                         "title": "Kementerian ESDM RI - Media Center - Arsip Berita - Kementerian ESDM dan SKK Migas Raih CNN Indonesia Awards 2026",
                         "date": "2026-11-06",
                         "discovery_method": "linked_page",
-                        "relevance_score": 28.71,
+                        "relevance_score": 28.04,
                         "role_score": {
                             "status": 0.0,
                             "impact": 0.0
-                        }
-                    },
-                    {
-                        "source_key": "geologi",
-                        "organization": "Badan Geologi",
-                        "url": "https://www.esdm.go.id/en",
-                        "title": "Kementerian ESDM RI - Site",
-                        "date": "2026-11-06",
-                        "discovery_method": "linked_page",
-                        "relevance_score": 28.26,
-                        "role_score": {
-                            "status": 6.0,
-                            "impact": 6.0
-                        }
-                    },
-                    {
-                        "source_key": "geologi",
-                        "organization": "Badan Geologi",
-                        "url": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-raih-peringkat-kedua-anugerah-reksa-bandha-2026",
-                        "title": "Kementerian ESDM RI - Media Center - Arsip Berita - Kementerian ESDM Raih Peringkat Kedua Anugerah Reksa Bandha 2026",
-                        "date": "2026-11-05",
-                        "discovery_method": "linked_page",
-                        "relevance_score": 27.96,
-                        "role_score": {
-                            "status": 2.0,
-                            "impact": 0.0
-                        }
-                    },
-                    {
-                        "source_key": "geologi",
-                        "organization": "Badan Geologi",
-                        "url": "https://www.esdm.go.id/id/media-center/arsip-berita/tutup-minerba-convex-2026-ditjen-minerba-beri-42-apresiasi-untuk-badan-usaha-dan-tim-esdm-siaga-bencana",
-                        "title": "Kementerian ESDM RI - Media Center - Arsip Berita - Tutup Minerba Convex 2026, Ditjen Minerba Beri 42 Apresiasi untuk Badan Usaha dan Tim ESDM Siaga Bencana",
-                        "date": "2026-11-05",
-                        "discovery_method": "linked_page",
-                        "relevance_score": 27.96,
-                        "role_score": {
-                            "status": 8.0,
-                            "impact": 6.0
                         }
                     },
                     {
@@ -665,7 +651,7 @@
                         "title": "Kementerian ESDM RI - Media Center - Arsip Berita - Perpres 107/2026 Terbit, Pemerintah Ubah Cara Impor Crude, BBM, dan LPG",
                         "date": "2026-10-26",
                         "discovery_method": "linked_page",
-                        "relevance_score": 20.46,
+                        "relevance_score": 19.79,
                         "role_score": {
                             "status": 0.0,
                             "impact": 2.0
@@ -723,7 +709,7 @@
                         "title": "Risiko Tsunami Non Tektonik Terkait Aktivitas Gunung Anak Krakatau",
                         "date": "2026-11-10",
                         "discovery_method": "linked_page",
-                        "relevance_score": 320.86,
+                        "relevance_score": 320.19,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 30.0
@@ -736,7 +722,7 @@
                         "title": "Tingkatkan Akuntabilitas dan Transparansi Pengelolaan Keuangan: BBMKG Wilayah II Melaksanakan Rekonsiliasi Laporan Keuangan Semester I TA 2024",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 63.21,
+                        "relevance_score": 62.54,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 28.0
@@ -749,7 +735,7 @@
                         "title": "IOWAVE 2023: Sistem Respon Peringatan Dini Tsunami di Sukabumi Perlu Ditingkatkan",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 61.41,
+                        "relevance_score": 60.74,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 36.0
@@ -762,7 +748,7 @@
                         "title": "Analisis Kondisi Cuaca Terkait Kejadian Pohon Tumbang di Kab. Serang Tanggal 01 April 2023",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 60.96,
+                        "relevance_score": 60.29,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 30.0
@@ -775,7 +761,7 @@
                         "title": "Pengenalan Informasi Cuaca, Iklim, Gempabumi dan Tsunami: BBMKG Wilayah II Menerima Kunjungan Siswa-Siswi SD Islam ABAIS Pamulang",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 60.96,
+                        "relevance_score": 60.29,
                         "role_score": {
                             "aviation": 8.0,
                             "impact": 28.0
@@ -788,7 +774,7 @@
                         "title": "Tingkatkan Literasi Cuaca, Iklim, Gempabumi dan Tsunami: BBMKG Wilayah II Menerima Kunjungan Siswa-Siswi SD Islam Terpadu Al-Ummah",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 60.96,
+                        "relevance_score": 60.29,
                         "role_score": {
                             "aviation": 8.0,
                             "impact": 34.0
@@ -801,7 +787,7 @@
                         "title": "Tingkatkan Kesiapsiagaan Bencana: BBMKG Wilayah II Selenggarakan Seminar Informasi Cuaca, Iklim, Gempabumi, dan Tsunami Ramah Disabilitas",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 60.96,
+                        "relevance_score": 60.29,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 30.0
@@ -814,7 +800,7 @@
                         "title": "Tingkatkan Literasi Cuaca, Iklim, dan Gempabumi: BBMKG Wilayah II Menerima Kunjungan Siswa-Siswi SMP Islam Terpadu Asy Syukriyyah Kota Tangerang",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 60.96,
+                        "relevance_score": 60.29,
                         "role_score": {
                             "aviation": 8.0,
                             "impact": 34.0
@@ -827,7 +813,7 @@
                         "title": "Tingkatkan Kualitas Pendidikan dan Kompetensi: Balai Besar Meteorologi Klimatologi dan Geofisika Wilayah II Jalin Kerja Sama dengan Universitas Pamulang",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 60.96,
+                        "relevance_score": 60.29,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 28.0
@@ -840,7 +826,7 @@
                         "title": "Sekolah Lapang Gempabumi Kabupaten Sintang 2026: Perkuat Kesiapsiagaan Lintas Sektor, Bangun Ketangguhan Masyarakat Sintang",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 59.61,
+                        "relevance_score": 58.94,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 34.0
@@ -853,7 +839,7 @@
                         "title": "DIPA BMKKG 2018",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 32.61,
+                        "relevance_score": 31.94,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 24.0
@@ -866,7 +852,7 @@
                         "title": "DIPA BMKKG 2017",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 32.61,
+                        "relevance_score": 31.94,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 24.0
@@ -879,7 +865,7 @@
                         "title": "DIPA BMKKG 2016",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 32.61,
+                        "relevance_score": 31.94,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 24.0
@@ -892,7 +878,7 @@
                         "title": "DIPA BMKKG 2015",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 32.61,
+                        "relevance_score": 31.94,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 24.0
@@ -905,7 +891,7 @@
                         "title": "DIPA BMKKG 2014",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 32.61,
+                        "relevance_score": 31.94,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 24.0
@@ -918,7 +904,7 @@
                         "title": "DIPA BMKKG 2013",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 32.61,
+                        "relevance_score": 31.94,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 24.0
@@ -931,7 +917,7 @@
                         "title": "LAKIP BBMKG Wilayah II Tahun 2021",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 32.61,
+                        "relevance_score": 31.94,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 24.0
@@ -944,7 +930,7 @@
                         "title": "LAKIP BBMKG Wilayah II Tahun 2022",
                         "date": "2026-11-10",
                         "discovery_method": "sitemap",
-                        "relevance_score": 32.61,
+                        "relevance_score": 31.94,
                         "role_score": {
                             "aviation": 6.0,
                             "impact": 24.0
@@ -964,7 +950,7 @@
                     "https://www.kemenhub.go.id/search?keyword=Gunung+Anak+Krakatau"
                 ],
                 "sitemap_count": 0,
-                "candidate_count": 12,
+                "candidate_count": 13,
                 "candidates": [
                     {
                         "source_key": "kemenhub",
@@ -1073,6 +1059,19 @@
                     {
                         "source_key": "kemenhub",
                         "organization": "Kementerian Perhubungan",
+                        "url": "https://www.kemenhub.go.id/post/read/pemerintah-subsidi-tiket-liburan-hingga-rp883-miliar",
+                        "title": "Berita Umum",
+                        "date": "2027-01-05",
+                        "discovery_method": "linked_page",
+                        "relevance_score": 31.5,
+                        "role_score": {
+                            "aviation": 2.0,
+                            "impact": 0.0
+                        }
+                    },
+                    {
+                        "source_key": "kemenhub",
+                        "organization": "Kementerian Perhubungan",
                         "url": "https://www.kemenhub.go.id/",
                         "title": "Kementerian Perhubungan Republik Indonesia",
                         "date": "2026-11-20",
@@ -1116,7 +1115,7 @@
                         "title": "VTA - Kementerian Perhubungan",
                         "date": "2026-10-21",
                         "discovery_method": "linked_page",
-                        "relevance_score": 16.26,
+                        "relevance_score": 15.59,
                         "role_score": {
                             "aviation": 0.0,
                             "impact": 0.0
@@ -1410,9 +1409,33 @@
                         "organization": "NADMA / MetMalaysia",
                         "url": "https://www.met.gov.my/data/ICN20032.html",
                         "title": "Media BAH",
-                        "date": "2026-11-10",
+                        "date": "2026-11-11",
                         "discovery_method": "linked_page",
-                        "relevance_score": 31.71,
+                        "relevance_score": 31.78,
+                        "role_score": {
+                            "impact": 0.0
+                        }
+                    },
+                    {
+                        "source_key": "nadma",
+                        "organization": "NADMA / MetMalaysia",
+                        "url": "https://www.met.gov.my/data/IWR30003.html",
+                        "title": "Tiada Nasihat",
+                        "date": "2026-11-11",
+                        "discovery_method": "linked_page",
+                        "relevance_score": 31.33,
+                        "role_score": {
+                            "impact": 0.0
+                        }
+                    },
+                    {
+                        "source_key": "nadma",
+                        "organization": "NADMA / MetMalaysia",
+                        "url": "https://www.met.gov.my/data/IWR30002.html",
+                        "title": "Thunderstorms Warning",
+                        "date": "2026-11-11",
+                        "discovery_method": "linked_page",
+                        "relevance_score": 31.33,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1424,31 +1447,7 @@
                         "title": "Continuous Rain Warning (Severe)",
                         "date": "2026-11-11",
                         "discovery_method": "linked_page",
-                        "relevance_score": 31.5,
-                        "role_score": {
-                            "impact": 4.0
-                        }
-                    },
-                    {
-                        "source_key": "nadma",
-                        "organization": "NADMA / MetMalaysia",
-                        "url": "https://www.met.gov.my/data/IWR30003.html",
-                        "title": "Tiada Nasihat",
-                        "date": "2026-11-10",
-                        "discovery_method": "linked_page",
-                        "relevance_score": 31.26,
-                        "role_score": {
-                            "impact": 0.0
-                        }
-                    },
-                    {
-                        "source_key": "nadma",
-                        "organization": "NADMA / MetMalaysia",
-                        "url": "https://www.met.gov.my/data/IWR30002.html",
-                        "title": "Thunderstorms Warning",
-                        "date": "2026-11-10",
-                        "discovery_method": "linked_page",
-                        "relevance_score": 31.26,
+                        "relevance_score": 31.33,
                         "role_score": {
                             "impact": 4.0
                         }
@@ -1458,9 +1457,9 @@
                         "organization": "NADMA / MetMalaysia",
                         "url": "https://www.met.gov.my/data/IWR31004.html",
                         "title": "Gempa Bumi/Tsunami",
-                        "date": "2026-11-09",
+                        "date": "2026-11-10",
                         "discovery_method": "linked_page",
-                        "relevance_score": 30.51,
+                        "relevance_score": 30.58,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1472,7 +1471,7 @@
                         "title": "Portal NADMA - 𝐍𝐀𝐃𝐌𝐀 𝐏𝐄𝐑𝐊𝐔𝐊𝐔𝐇 𝐊𝐄𝐒𝐈𝐀𝐏𝐒𝐈𝐀𝐆𝐀𝐀𝐍 𝐌𝐄𝐋𝐀𝐋𝐔𝐈 𝐋𝐀𝐓𝐈𝐇 𝐀𝐌𝐀𝐋 𝐁𝐄𝐍𝐂𝐀𝐍𝐀 𝐓𝐒𝐔𝐍𝐀𝐌𝐈 𝐋𝐀𝐇𝐀𝐃 𝐃𝐀𝐓𝐔 𝟐𝟎𝟐𝟔",
                         "date": "2026-11-06",
                         "discovery_method": "linked_page",
-                        "relevance_score": 29.01,
+                        "relevance_score": 28.34,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1484,7 +1483,7 @@
                         "title": "Portal NADMA - 𝐍𝐀𝐃𝐌𝐀 𝐏𝐄𝐑𝐊𝐔𝐊𝐔𝐇 𝐊𝐄𝐒𝐈𝐀𝐏𝐒𝐈𝐀𝐆𝐀𝐀𝐍 𝐌𝐄𝐋𝐀𝐋𝐔𝐈 𝐋𝐀𝐓𝐈𝐇 𝐀𝐌𝐀𝐋 𝐁𝐄𝐍𝐂𝐀𝐍𝐀 𝐓𝐒𝐔𝐍𝐀𝐌𝐈 𝐋𝐀𝐇𝐀𝐃 𝐃𝐀𝐓𝐔 𝟐𝟎𝟐𝟔",
                         "date": "2026-11-06",
                         "discovery_method": "linked_page",
-                        "relevance_score": 29.01,
+                        "relevance_score": 28.34,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1496,7 +1495,7 @@
                         "title": "Portal NADMA - 𝐌𝐄𝐒𝐘𝐔𝐀𝐑𝐀𝐓 𝐍𝐀𝐃𝐌𝐀-𝐔𝐍𝐂𝐂 𝐏𝐄𝐑𝐊𝐔𝐊𝐔𝐇 𝐊𝐄𝐑𝐉𝐀𝐒𝐀𝐌𝐀 𝐃𝐀𝐋𝐀𝐌 𝐏𝐄𝐍𝐆𝐔𝐑𝐔𝐒𝐀𝐍 𝐁𝐄𝐍𝐂𝐀𝐍𝐀",
                         "date": "2026-11-06",
                         "discovery_method": "linked_page",
-                        "relevance_score": 29.0,
+                        "relevance_score": 28.33,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1508,7 +1507,7 @@
                         "title": "Portal NADMA - 𝐌𝐄𝐒𝐘𝐔𝐀𝐑𝐀𝐓 𝐍𝐀𝐃𝐌𝐀-𝐔𝐍𝐂𝐂 𝐏𝐄𝐑𝐊𝐔𝐊𝐔𝐇 𝐊𝐄𝐑𝐉𝐀𝐒𝐀𝐌𝐀 𝐃𝐀𝐋𝐀𝐌 𝐏𝐄𝐍𝐆𝐔𝐑𝐔𝐒𝐀𝐍 𝐁𝐄𝐍𝐂𝐀𝐍𝐀",
                         "date": "2026-11-06",
                         "discovery_method": "linked_page",
-                        "relevance_score": 29.0,
+                        "relevance_score": 28.33,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1520,7 +1519,7 @@
                         "title": "Portal NADMA - 𝐋𝐀𝐖𝐀𝐓𝐀𝐍 𝐏𝐄𝐑𝐃𝐀𝐍𝐀 𝐌𝐄𝐍𝐓𝐄𝐑𝐈 𝐊𝐄 𝐏𝐔𝐒𝐀𝐓 𝐏𝐄𝐌𝐈𝐍𝐃𝐀𝐇𝐀𝐍 𝐒𝐄𝐌𝐄𝐍𝐓𝐀𝐑𝐀 (𝐏𝐏𝐒) 𝐃𝐄𝐖𝐀𝐍 𝐒𝐈𝐀𝐍𝐓𝐀𝐍",
                         "date": "2026-11-06",
                         "discovery_method": "linked_page",
-                        "relevance_score": 29.0,
+                        "relevance_score": 28.33,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1532,7 +1531,7 @@
                         "title": "Portal NADMA - 𝐋𝐀𝐖𝐀𝐓𝐀𝐍 𝐏𝐄𝐑𝐃𝐀𝐍𝐀 𝐌𝐄𝐍𝐓𝐄𝐑𝐈 𝐊𝐄 𝐏𝐔𝐒𝐀𝐓 𝐏𝐄𝐌𝐈𝐍𝐃𝐀𝐇𝐀𝐍 𝐒𝐄𝐌𝐄𝐍𝐓𝐀𝐑𝐀 (𝐏𝐏𝐒) 𝐃𝐄𝐖𝐀𝐍 𝐒𝐈𝐀𝐍𝐓𝐀𝐍",
                         "date": "2026-11-06",
                         "discovery_method": "linked_page",
-                        "relevance_score": 29.0,
+                        "relevance_score": 28.33,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1544,7 +1543,7 @@
                         "title": "Portal NADMA - 𝐍𝐀𝐃𝐌𝐀 𝐏𝐄𝐑𝐊𝐔𝐊𝐔𝐇 𝐊𝐄𝐒𝐈𝐀𝐏𝐒𝐈𝐀𝐆𝐀𝐀𝐍 𝐎𝐏𝐄𝐑𝐀𝐒𝐈 𝐁𝐄𝐍𝐂𝐀𝐍𝐀 𝐍𝐄𝐆𝐄𝐑𝐈 𝐏𝐀𝐍𝐓𝐀𝐈 𝐓𝐈𝐌𝐔𝐑 𝐌𝐄𝐋𝐀𝐋𝐔𝐈 𝐏𝐑𝐎𝐉𝐄𝐊 𝐑𝐈𝐍𝐓𝐈𝐒 𝐈𝐍𝐒𝐏𝐄𝐊𝐓𝐎𝐑𝐀𝐓",
                         "date": "2026-11-06",
                         "discovery_method": "linked_page",
-                        "relevance_score": 29.0,
+                        "relevance_score": 28.32,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1556,7 +1555,7 @@
                         "title": "Portal NADMA - Media",
                         "date": "2026-11-06",
                         "discovery_method": "linked_page",
-                        "relevance_score": 28.56,
+                        "relevance_score": 27.89,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1568,7 +1567,7 @@
                         "title": "Portal NADMA - Gallery",
                         "date": "2026-11-06",
                         "discovery_method": "linked_page",
-                        "relevance_score": 28.55,
+                        "relevance_score": 27.88,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1580,7 +1579,7 @@
                         "title": "Portal NADMA - News",
                         "date": "2026-11-03",
                         "discovery_method": "configured_listing",
-                        "relevance_score": 26.49,
+                        "relevance_score": 25.82,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1592,7 +1591,7 @@
                         "title": "Portal NADMA - Berita",
                         "date": "2026-11-03",
                         "discovery_method": "linked_page",
-                        "relevance_score": 26.49,
+                        "relevance_score": 25.82,
                         "role_score": {
                             "impact": 0.0
                         }
@@ -1604,7 +1603,7 @@
                         "title": "Portal NADMA - 𝐒𝐈𝐀𝐑𝐀𝐍 𝐌𝐄𝐃𝐈𝐀 𝐍𝐀𝐃𝐌𝐀 𝐏𝐄𝐑𝐊𝐔𝐊𝐔𝐇 𝐏𝐄𝐍𝐘𝐄𝐋𝐀𝐑𝐀𝐒𝐀𝐍 𝐓𝐈𝐍𝐃𝐀𝐊𝐀𝐍 𝐉𝐄𝐑𝐄𝐁𝐔 𝐃𝐈 𝐍𝐄𝐆𝐄𝐑𝐈, 𝐊𝐄𝐒𝐄𝐋𝐀𝐌𝐀𝐓𝐀𝐍 𝐌𝐔𝐑𝐈𝐃 𝐉𝐀𝐃𝐈 𝐊𝐄𝐔𝐓𝐀𝐌𝐀𝐀𝐍",
                         "date": "2026-10-14",
                         "discovery_method": "linked_page",
-                        "relevance_score": 11.83,
+                        "relevance_score": 11.16,
                         "role_score": {
                             "impact": 0.0
                         }
